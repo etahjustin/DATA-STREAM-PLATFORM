@@ -1,0 +1,5 @@
+streamlit
+pandas
+s3fs
+pyarrow
+watchdog

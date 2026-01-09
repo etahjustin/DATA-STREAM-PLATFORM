@@ -1,0 +1,19 @@
+# Fichiers systèmes et IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Python - fichiers compilés et environnements virtuels
+__pycache__/
+*.pyc
+venv/
+env/
+.pytest_cache/
+
+# Variables d'environnement (Sécurité !)
+.env
+
+# Dossiers de données locaux montés par Docker (si tu en as)
+# Par exemple, si tu montes un dossier local pour stocker les données Kafka ou MinIO pour les tests
+mnt/
+data/
